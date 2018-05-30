@@ -1,0 +1,5 @@
+[master 7d21ea7] v1
+ 2 files changed, 3 insertions(+), 3 deletions(-)
+ create mode 100644 nohup.out
+To git@github.com:CoolSheng/Kaggle--Avito-Demand-Prediction-Challenge.git
+   a5472a9..7d21ea7  master -> master

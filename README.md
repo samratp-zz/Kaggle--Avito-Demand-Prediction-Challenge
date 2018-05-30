@@ -2,10 +2,13 @@
 Avito Demand Prediction Challenge
 
 * ## Input
-+ Dataset
+ Dataset
+
+* ## Script
+ Script Code
 
 * ## Solution
-+ Model
+ Model
 
 * ## Submit
-+ Result
+ Result
