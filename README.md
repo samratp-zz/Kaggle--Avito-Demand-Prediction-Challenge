@@ -1,14 +1,14 @@
 # Kaggle---Avito-Demand-Prediction-Challenge
 Avito Demand Prediction Challenge
 
- ## Input
- Dataset
+## Input
+Dataset
 
-* ## Script
- Script Code
+## Script
+Script Code
 
-* ## Solution
- Model
+## Solution
+Model
 
-* ## Submit
- Result
+## Submit
+Result
