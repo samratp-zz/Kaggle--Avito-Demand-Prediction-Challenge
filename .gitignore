@@ -1,5 +1,13 @@
-*.out
+nohup.out
+
 input 
+
 script/*.csv
 script/*.txt
 script/*.out
+
+solution/*.out
+
+submit/*.out
+
+

@@ -1,4 +1,4 @@
-# Kaggle---Avito-Demand-Prediction-Challenge
+#Kaggle---Avito-Demand-Prediction-Challenge
 Avito Demand Prediction Challenge
 
 ## Input
@@ -6,7 +6,7 @@ Avito Demand Prediction Challenge
 
 ## Script
 * Script Code
-... * Fasttext
+1. Fasttext
 
 ## Solution
 * Model
