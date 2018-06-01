@@ -1,0 +1,5 @@
+*.out
+input 
+script/*.csv
+script/*.txt
+script/*.out

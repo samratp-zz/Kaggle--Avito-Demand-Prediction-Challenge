@@ -6,6 +6,7 @@ Avito Demand Prediction Challenge
 
 ## Script
 * Script Code
+... * Fasttext
 
 ## Solution
 * Model
