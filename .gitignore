@@ -1,13 +1,18 @@
 nohup.out
 
-input 
+###input###########
+input
 
+###script##########
 script/*.csv
 script/*.txt
 script/*.out
 
+###solution########
 solution/*.out
+solution/*.csv
 
+###submit##$#######
 submit/*.out
 
 
