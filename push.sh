@@ -1,5 +1,7 @@
 #cd ../
 #git add --all
+git pull --all
+
 git add README.md
 git add script
 git add solution 
